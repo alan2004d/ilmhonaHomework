@@ -23,4 +23,3 @@ class Apple {
     boolean sour;
 
 }
-
