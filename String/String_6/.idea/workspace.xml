@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb108add-f92e-42d2-92bd-d9dcde7311e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/String_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/out/production/String_1/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_1/src/Alan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/String_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/out/production/String_2/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_2/src/Alan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/String_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/out/production/String_3/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_3/src/Alan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/String_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/out/production/String_4/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_4/src/Alan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/String_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/out/production/String_5/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_5/src/Alan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/String_6/Alan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alan/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kVy4dU8R0U5vbsbQGsAfffYd6P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Alan.Main" />
+      <module name="String_6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb108add-f92e-42d2-92bd-d9dcde7311e0" name="Default Changelist" comment="" />
+      <created>1605799863739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605799863739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1605800054292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605800054292" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1605800054292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605800054292" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1605800054292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605800054292" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1605800054292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605800054292" />
+  </component>
+</project>
