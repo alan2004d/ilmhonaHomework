@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a6d73f8-5db8-42fb-b909-be6c473686c3" name="Default Changelist" comment="" />
+    <list default="true" id="4c41174c-7131-4e08-b667-c552c5a90130" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1kW2DkaL3lcJzOzVYPYjC2HTapr" />
+  <component name="ProjectId" id="1kW3DgqugDtDBrUo94bH77iA6Bc" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -74,13 +74,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1605801910472</created>
+      <created>1605802402907</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605801910472</updated>
+      <updated>1605802402907</updated>
     </task>
     <servers />
   </component>
